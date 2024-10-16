@@ -1,5 +1,6 @@
-## Hi there 👋
-Hey,I am Jeffrey Lam.😁
+## Hello 👋
+My name is Jeffrey Lam.😁
+
 
 *Applications*
 - 📑 [TodoList](http://119.91.211.99/todo/)
