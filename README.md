@@ -2,7 +2,6 @@
 My name is Jeffrey Lam.😁
 
 
-*Applications*
 - 🧑‍💻 [Interview Question](https://l1njiayu.github.io/interviewQuestion/)
 - 📑 [TodoList](http://119.91.211.99/todo/)
 - 🐍 [Snake Game](http://119.91.211.99/snake/)
