@@ -3,7 +3,7 @@ My name is Jeffrey Lam.😁
 
 
 
-## ✨Skills & Tools-技能 & 工具
+## ✨Skills & Tools - 技能 & 工具
 
 **Frontend:**
 <div style="display: flex">
