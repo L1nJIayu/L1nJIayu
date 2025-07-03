@@ -35,6 +35,7 @@ My name is Jeffrey Lam.😁
           
 ## *Applications*
 
+- 🧑‍💻 [JeffNex](https://l1njiayu.github.io/jeffnex/)
 - 📑 [TodoList](http://119.91.211.99/todo/)
 - 🐍 [Snake Game](http://119.91.211.99/snake/)
 - 💣️ [Tank War Game](http://119.91.211.99/tank_war/)
