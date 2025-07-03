@@ -2,7 +2,39 @@
 My name is Jeffrey Lam.😁
 
 
-*Applications*
+
+## ✨Skills & Tools-技能 & 工具
+
+**Frontend:**
+<div style="display: flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="20" style="margin: 0 12px;"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="20" style="margin: 0 12px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" style="margin: 0 12px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="20" style="margin: 0 12px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="20" style="margin: 0 12px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="20" style="margin: 0 12px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="20" style="margin: 0 12px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="20" style="margin: 0 12px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="20" style="margin: 0 12px"  />
+</div>
+          
+**Backend:**
+<div style="display: flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="20" style="margin: 0 12px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" style="margin: 0 12px" />
+</div>
+          
+**Dev Tools:**
+<div style="display: flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="chrome" width="20" style="margin: 0 12px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="20" style="margin: 0 12px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="20" style="margin: 0 12px" />
+</div>
+          
+          
+## *Applications*
+
 - 📑 [TodoList](http://119.91.211.99/todo/)
 - 🐍 [Snake Game](http://119.91.211.99/snake/)
 - 💣️ [Tank War Game](http://119.91.211.99/tank_war/)
